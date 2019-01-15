@@ -1,0 +1,400 @@
+[
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547592969075,
+            "changeTime": 1547592969075,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547592969075,
+            "changeTime": 1547592969075,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524959,
+            "changeTime": 1547593524959,
+            "contentHash": "a08f9dd1cf6b8368bbd76e91a61dd8c5be153bfd"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547592969075,
+            "changeTime": 1547592969075,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593137828,
+            "changeTime": 1547593137828,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2145,
+            "modifiedTime": 1547593524852,
+            "changeTime": 1547593524852,
+            "contentHash": "f108a55a2773af87d018dd0e9ca2866777a61037"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 400,
+            "modifiedTime": 1547593524857,
+            "changeTime": 1547593524857,
+            "contentHash": "c53809961f3e1f73b18af3f712f7095729852eff"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\fields\\Approved__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\fields\\Approved__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1547593524862,
+            "changeTime": 1547593524862,
+            "contentHash": "a0dc810fc6e698fe8885137b288518f78d97a102"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\fields\\TriggerText__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\fields\\TriggerText__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 407,
+            "modifiedTime": 1547593524867,
+            "changeTime": 1547593524867,
+            "contentHash": "93b5f91a7349512e9bc7e1d9b5cfe89ef1dd248f"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1547593524876,
+            "changeTime": 1547593524876,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3069,
+            "modifiedTime": 1547593524889,
+            "changeTime": 1547593524889,
+            "contentHash": "e8b9eb7955913dbefd9a3ea7aba921ac85e36875"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\flexipages\\Archima_Expenses_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\flexipages\\Archima_Expenses_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 511,
+            "modifiedTime": 1547593524894,
+            "changeTime": 1547593524894,
+            "contentHash": "801c90904f582662b839c93efe3d1a014e41ceca"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\tabs\\Expense__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\tabs\\Expense__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1547593524897,
+            "changeTime": 1547593524897,
+            "contentHash": "01e1520670e7de1ffa1bdb91368f78ce2782a1db"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\applications\\Archima_Expenses.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\applications\\Archima_Expenses.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 710,
+            "modifiedTime": 1547593524907,
+            "changeTime": 1547593524907,
+            "contentHash": "0598ca58e7b7551c4376be9310291206e5e459c4"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5539,
+            "modifiedTime": 1547593524916,
+            "changeTime": 1547593524916,
+            "contentHash": "0fd194d23333e9d6b863d0c1c0af0ba716599e5b"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5201,
+            "modifiedTime": 1547593524926,
+            "changeTime": 1547593524926,
+            "contentHash": "127a2dc339c4c1b17b2f81c6a6550c621ae1699e"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19070,
+            "modifiedTime": 1547593524950,
+            "changeTime": 1547593524950,
+            "contentHash": "0dcbea34b77cd011b2735236462b1f6832a64709"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5201,
+            "modifiedTime": 1547593524956,
+            "changeTime": 1547593524956,
+            "contentHash": "127a2dc339c4c1b17b2f81c6a6550c621ae1699e"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\contentassets\\logo.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\contentassets\\logo.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 521,
+            "modifiedTime": 1547593524960,
+            "changeTime": 1547593524960,
+            "contentHash": "c64a91ccf00bb00b639f3f21b2b38244f624254a"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\contentassets\\logo.asset",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\contentassets\\logo.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9413,
+            "modifiedTime": 1547593524964,
+            "changeTime": 1547593524964,
+            "contentHash": "cee5eb91d7b0cec04dbfab1e09be7ccec2593d2c"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524868,
+            "changeTime": 1547593524868,
+            "contentHash": "ab111c900533b0b8cb313ac3d5760ae185266359"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524844,
+            "changeTime": 1547593524844,
+            "contentHash": "e81264004cbb92bbb92fc7862be7e9dbd66da477"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524862,
+            "changeTime": 1547593524862,
+            "contentHash": "3015c8352af59d84c23a0db5405cb0438a2f9cd4"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\objects\\Expense__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524869,
+            "changeTime": 1547593524869,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524887,
+            "changeTime": 1547593524887,
+            "contentHash": "e15ea744300e5f3377055aaf1ccbeb54606bbf43"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524892,
+            "changeTime": 1547593524892,
+            "contentHash": "55da6a346c066cdb142abaf01b003f363ab532d1"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524896,
+            "changeTime": 1547593524896,
+            "contentHash": "db3a225c5eb659da5c801daabda3f731f6107666"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524904,
+            "changeTime": 1547593524904,
+            "contentHash": "cd313d0835ce17b9c708d24036f4964881617c06"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524955,
+            "changeTime": 1547593524955,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\contentassets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx\\projects\\Jan15\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547593524962,
+            "changeTime": 1547593524962,
+            "contentHash": "5b4202c3ad77adcad76c70f41ea68bc3acec7137"
+        }
+    ]
+]
